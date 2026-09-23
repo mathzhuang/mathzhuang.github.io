@@ -3,11 +3,13 @@ source 'https://rubygems.org'
 group :jekyll_plugins do
   gem 'jekyll'
   gem 'jekyll-feed'
+  gem 'jekyll-gist'
+  gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
   gem 'jekyll-redirect-from'
   gem 'jemoji'
   gem 'webrick', '~> 1.8'
 end
 
-gem 'github-pages'
-gem 'connection_pool', '2.5.0'
+gem 'json', '~> 2.9'
+gem 'kramdown-parser-gfm'
