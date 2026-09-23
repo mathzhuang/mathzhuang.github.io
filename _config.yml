@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ziyi Zhuang title"
+title                    : "Ziyi Zhuang's HomePage"
 title_separator          : "-"
 name                     : &name "Ziyi Zhuang"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Ziyi Zhuang"
   pronouns         : "she/her"  
-  bio              : "This is a Short biography for the left-hand sidebar"
+  bio              : "An undergraduate student at Tongji University, majoring in Software Engineering in Guohao College. Focusing on gengeative AI,Diffusion Model and CV."
   location         : "Shanghai,China"
   employer         : "Tongji University"
   uri              : # URL
