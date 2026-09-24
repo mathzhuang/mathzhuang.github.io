@@ -20,9 +20,7 @@ I'm **Ziyi Zhuang**, a third-year undergraduate student majoring in **Software E
 <script defer src="https://events.vercount.one/js"></script>
 
 <div style="text-align: center; margin: 1.5rem 0; font-size: 0.95rem; color: #1e63c4;">
-  ✨ This is the <span id="vercount_value_site_pv">···</span> th visit to my website
-  <br>
-  👣 You are the <span id="vercount_value_site_uv">···</span> th person to visit my website!
+  ✨ You are the <span id="vercount_value_site_uv">···</span> th visiter!
 </div>
 
 <span class="anchor" id="news"></span>
