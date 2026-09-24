@@ -79,6 +79,6 @@ I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student
 <!-- TODO: Verify your enrollment and expected graduation years. -->
 - *2024.09 - 2028.06 (now)*, **Bachelor's Degree in Software Engineering**, Guohao College, Tongji University, Shanghai, China.
 
-<span class="anchor" id="Student Works"></span> 
+<span class="anchor" id="Student Affairs"></span> 
 
-# 🎖 Student Works
+# 🎖 Student Affairs
