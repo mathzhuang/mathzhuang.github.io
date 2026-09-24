@@ -63,6 +63,12 @@ I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student
 - *2026.05*: 🥈 **Honorable Mention(H Award)** -2026 Mathematical Contest in Modeling (MCM)
 - *2026.01*: 🥉 **Bronze Medal** -2025 International Undergraduate Physics Competition
 - *2026.06*: 🎖️**National First Prize** -9th National Undergraduate Innovation Experience Competition
+- *2025.06*: 🏅**First Prize** -Tongji University's 19th “Challenge Cup” National College Students’ Extracurricular Academic Science and Technology Works Competition
+- *2026.06*: 🥈**Silver Medal** -Tongji University's 11th Tongji University “Excellent Cup” & 15th “Challenge Cup” China College Students’ Entrepreneurship Competition
+- *2025.06*: 🥈**Silver Medal** -China International College Students’ Innovation Competition (2025), Tongji University Campus Selection (Red Flag Track)
+- *2026.06*: 🥈**Silver Medal** -China International College Students’ Innovation Competition (2026), Tongji University Campus Selection
+- *2025.12*: 🥈**Second Prize** -11th Tongji University “Mission and Responsibility” Ideological and Political Competition
+- *2026.06*: 🥉 **Third Prize & Best Theme Award** -5th Tongji University's “Ji Shi Kai Jiang” Final
 - 
 
 <span class="anchor" id="research-experiences"></span>

@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "🏆Zhuang's homepage✨"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Zhuang's Homepage✨"
 title_separator          : "-"
 name                     : &name "Ziyi Zhuang"
 description              : &description "An undergraduate student at Tongji University, majoring in Software Engineering. Focusing on generative AI, diffusion models, and computer vision."   # Update this with a general description of your site, this is the default if not overridden by a page
