@@ -15,8 +15,6 @@ I'm Ziyi Zhuang (CN name: 庄子懿), a third-year undergraduate student majorin
 
 ---
 
-<section id="publications">
-
 ## Publications
 
 {% if site.author.googlescholar %}
@@ -43,11 +41,7 @@ I'm Ziyi Zhuang (CN name: 庄子懿), a third-year undergraduate student majorin
   {% endfor %}
 {% endif %}
 
-</section>
-
 ---
-
-<section id="talks">
 
 ## Talks
 
@@ -55,11 +49,7 @@ I'm Ziyi Zhuang (CN name: 庄子懿), a third-year undergraduate student majorin
   {% include archive-single-talk.html %}
 {% endfor %}
 
-</section>
-
 ---
-
-<section id="teaching">
 
 ## Teaching
 
@@ -67,11 +57,7 @@ I'm Ziyi Zhuang (CN name: 庄子懿), a third-year undergraduate student majorin
   {% include archive-single.html %}
 {% endfor %}
 
-</section>
-
 ---
-
-<section id="portfolio">
 
 ## Portfolio
 
@@ -79,11 +65,7 @@ I'm Ziyi Zhuang (CN name: 庄子懿), a third-year undergraduate student majorin
   {% include archive-single.html %}
 {% endfor %}
 
-</section>
-
 ---
-
-<section id="blog">
 
 ## Blog Posts
 
@@ -97,11 +79,7 @@ I'm Ziyi Zhuang (CN name: 庄子懿), a third-year undergraduate student majorin
   {% include archive-single.html %}
 {% endfor %}
 
-</section>
-
 ---
-
-<section id="cv">
 
 ## CV
 
@@ -142,14 +120,8 @@ Teaching
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-</section>
-
 ---
-
-<section id="guide">
 
 ## Guide
 
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
-
-</section>

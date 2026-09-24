@@ -21,7 +21,7 @@ main:
     url: "#portfolio"
 
   - title: "Blog Posts"
-    url: "#blog"
+    url: "#blog-posts"
 
   - title: "CV"
     url: "#cv"
