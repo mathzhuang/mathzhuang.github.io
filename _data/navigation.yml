@@ -11,14 +11,17 @@ main:
   - title: "News"
     url: "/#news"
 
-  - title: "Publications"
-    url: "/#publications"
-
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
+
+  - title: "Research Experiences"
+    url: "/#research-experiences"
 
   - title: "Educations"
     url: "/#educations"
 
-  - title: "Research Experiences"
-    url: "/#research-experiences"
+  - title: "Student Affairs"
+    url: "/#student-affairs"
+
+  - title: "Social Practice"
+    url: "/#social-practice"

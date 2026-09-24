@@ -24,7 +24,7 @@ I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student
 
 <!-- TODO: Add your latest news, one line per item, newest first, in this format: -->
 - *2026.09*: 🎉 **National Scholarship** — 2025-2026 Academic Year
-- 
+- *2026.06*: 🎖️**National First Prize** -9th National Undergraduate Innovation Experience Competition
 
 <!--<span class="anchor" id="publications"></span>
 
@@ -60,8 +60,8 @@ I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student
 - *2025.12*: 🎖️ **Second-Class Scholarship of Tongji University**
 - *2025.12*: 🎖️ **Outstanding Individual in Social Practice**
 - *2026.06*: 🎖️**National First Prize** -9th National Undergraduate Innovation Experience Competition
-- *2025.11*: 🥈 **Provincial Second Prize** -China Undergraduate Mathematical Contest in Modeling (CUMCM)
 - *2026.05*: 🥈 **Honorable Mention(H Award)** -2026 Mathematical Contest in Modeling (MCM)
+- *2025.11*: 🥈 **Provincial Second Prize** -China Undergraduate Mathematical Contest in Modeling (CUMCM)
 - *2026.01*: 🥉 **Bronze Medal** -2025 International Undergraduate Physics Competition
 - *2025.06*: 🏅**First Prize** -Tongji University's 19th “Challenge Cup” National College Students’ Extracurricular Academic Science and Technology Works Competition
 - *2026.06*: 🥈**Silver Medal** -Tongji University's 11th Tongji University “Excellent Cup” & 15th “Challenge Cup” China College Students’ Entrepreneurship Competition
@@ -69,7 +69,6 @@ I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student
 - *2026.06*: 🥈**Silver Medal** -China International College Students’ Innovation Competition (2026), Tongji University Campus Selection
 - *2025.12*: 🥈**Second Prize** -11th Tongji University “Mission and Responsibility” Ideological and Political Competition
 - *2026.06*: 🥉 **Third Prize & Best Theme Award** -5th Tongji University's “Ji Shi Kai Jiang” Final
-- 
 
 <span class="anchor" id="research-experiences"></span>
 
@@ -90,7 +89,20 @@ I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student
 <!-- TODO: Verify your enrollment and expected graduation years. -->
 - *2024.09 - 2028.06 (now)*, **Bachelor's Degree in Software Engineering**, Guohao College, Tongji University, Shanghai, China.
 
-<span class="anchor" id="Student Affairs"></span> 
+<span class="anchor" id="student-affairs"></span> 
 
 # 🎒 Student Affairs
 
+- **169 hours** of Total Volunteer Service. 
+- **Vice President** -Tongji University Dream Building Space Club
+- **Member** -Computer Pioneer Team, Guohao College
+- **Tongji University Peer Mentor** —Tongji University Student Academic Development and Guidance Center
+- **Outstanding Member** - Tengfei Program Team, Tongji University Student Academic Development and Guidance Center — Outstanding Member
+- **Member** -Event Operations Department, Tongji University Science and Innovation Association
+
+<span class="anchor" id="social-practice"></span> 
+
+# 🎒 Social Practice
+
+- **Oxford Prospective Programme (OPP)** — 2025 Summer,University of Oxford
+- **University-Level Key Project** - “Forging a Strong Sense of Community for the Chinese Nation” Special Social Practice 
