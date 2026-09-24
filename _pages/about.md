@@ -51,7 +51,7 @@ I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student
 
 <span class="anchor" id="honors-and-awards"></span> 
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 
 <!-- TODO: List your honors and awards, newest first: -->
 - *2026.12*: 🎖️ **National Scholarship**
@@ -59,10 +59,10 @@ I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student
 - *2025.12*: 🎖️ **Outstanding Student Leader**
 - *2025.12*: 🎖️ **Second-Class Scholarship of Tongji University**
 - *2025.12*: 🎖️ **Outstanding Individual in Social Practice**
+- *2026.06*: 🎖️**National First Prize** -9th National Undergraduate Innovation Experience Competition
 - *2025.11*: 🥈 **Provincial Second Prize** -China Undergraduate Mathematical Contest in Modeling (CUMCM)
 - *2026.05*: 🥈 **Honorable Mention(H Award)** -2026 Mathematical Contest in Modeling (MCM)
 - *2026.01*: 🥉 **Bronze Medal** -2025 International Undergraduate Physics Competition
-- *2026.06*: 🎖️**National First Prize** -9th National Undergraduate Innovation Experience Competition
 - *2025.06*: 🏅**First Prize** -Tongji University's 19th “Challenge Cup” National College Students’ Extracurricular Academic Science and Technology Works Competition
 - *2026.06*: 🥈**Silver Medal** -Tongji University's 11th Tongji University “Excellent Cup” & 15th “Challenge Cup” China College Students’ Entrepreneurship Competition
 - *2025.06*: 🥈**Silver Medal** -China International College Students’ Innovation Competition (2025), Tongji University Campus Selection (Red Flag Track)
@@ -77,8 +77,8 @@ I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student
 
 <!-- TODO: List your research experiences, newest first: -->
 - *2025.03 - 2026.04*, **Development of an Integrated Detection Device for Wild Turtle Dove Nest Departure Dynamics and Incubation Temperature Based on AI**, [Shichao Chen](https://life.tongji.edu.cn/03/54/c12620a131924/page.htm), Tongji University, China.
-- *2026.03 - present*,**Hallucination Detection in Image Super-Resolution Restoration**, (Zhangkai Ni)[https://eezkni.github.io/], Tongji University, China.
-- *2026.07 - present*,**Conditional Nonlinear Optimal Perturbation Method Reveals Optimal Precursors of El Niño in a Data-Driven Climate Model**, (Bo Qin)[https://cs.tongji.edu.cn/info/1067/3596.htm], Tongji University, China.
+- *2026.03 - present*,**Hallucination Detection in Image Super-Resolution Restoration**, [Zhangkai Ni](https://eezkni.github.io/), Tongji University, China.
+- *2026.07 - present*,**Conditional Nonlinear Optimal Perturbation Method Reveals Optimal Precursors of El Niño in a Data-Driven Climate Model**, [Bo Qin](https://cs.tongji.edu.cn/info/1067/3596.htm), Tongji University, China.
 
 
 
@@ -92,4 +92,5 @@ I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student
 
 <span class="anchor" id="Student Affairs"></span> 
 
-# 🎖 Student Affairs
+# 🎒 Student Affairs
+
