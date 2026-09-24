@@ -12,12 +12,18 @@ redirect_from:
 
 # 👋Hi, welcome to my homepage!
 
-I'm **Ziyi Zhuang**, a third-year undergraduate student majoring in **Software Engineering** at **Guohao College**, **Tongji University**. My research interests lie in **generative AI**, **diffusion models**, and **computer vision**.
-
-During my time at Tongji, I have participated in several research projects. I fortunately worked on a project led by Associate [Professor NI](https://eezkni.github.io/) at Tongji University, focused on the Hallucination Detection in Diffusion based Image Super-Resolution Model. 
+I'm **Ziyi Zhuang**, a third-year undergraduate student majoring in **Software Engineering** at **Guohao College**, **Tongji University**. My research interests lie in **generative AI**, **diffusion models**, and **computer vision**.During my time at Tongji, I have participated in several research projects. I fortunately worked on a project led by Associate [Professor NI](https://eezkni.github.io/) at Tongji University, focused on the Hallucination Detection in Diffusion based Image Super-Resolution Model. 
 <!-- TODO: Add 1–2 paragraphs about the research projects / labs you have worked with,
      following this style:
      "During my time at Tongji, I have participated in several research projects..." -->
+
+<script defer src="https://events.vercount.one/js"></script>
+
+<div style="text-align: center; margin: 1.5rem 0; font-size: 0.95rem; color: #1e63c4;">
+  ✨ This is the <span id="vercount_value_site_pv">···</span> -th visit to my website
+  <br>
+  👣 You are the <span id="vercount_value_site_uv">···</span> -th to visit my website!
+</div>
 
 <span class="anchor" id="news"></span>
 
