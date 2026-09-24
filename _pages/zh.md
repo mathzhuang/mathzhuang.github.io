@@ -15,7 +15,7 @@ lang: zh
 <script defer src="https://events.vercount.one/js"></script>
 
 <div style="text-align: center; margin: 1.5rem 0; font-size: 0.95rem; color: #1e63c4;">
-  ✨ 你是第 <span id="vercount_value_site_uv">···</span> 个访问我网站的人！
+  ✨ 你是第 <span id="vercount_value_site_uv">···</span> 个访问者！
 </div>
 
 <span class="anchor" id="news"></span>

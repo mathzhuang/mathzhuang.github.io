@@ -113,7 +113,7 @@ I'm **Ziyi Zhuang**, a third-year undergraduate student majoring in **Software E
 
 <span class="anchor" id="social-practice"></span> 
 
-# 🎒 Social Practice
+# 🌄 Social Practice
 
 - **Oxford Prospective Programme (OPP)** — 2025 Summer,University of Oxford
 - **University-Level Key Project** - “Forging a Strong Sense of Community for the Chinese Nation” Special Social Practice 
