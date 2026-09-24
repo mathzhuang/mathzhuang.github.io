@@ -30,11 +30,11 @@ I'm **Ziyi Zhuang**, a third-year undergraduate student majoring in **Software E
 <!-- TODO: Add your latest news, one line per item, newest first, in this format: -->
 - *2026.09*: 🎉 **National Scholarship** — 2025-2026 Academic Year
 - *2026.06*: 🎖️**National First Prize** -9th National Undergraduate Innovation Experience Competition
-- *2026.04*: 🎖️ **Cyrus Tang Scholarship**
-- *2025.12*: 🎖️ **Outstanding Student Leader**
-- *2025.12*: 🎖️ **Second-Class Scholarship**
-- *2025.12*: 🎖️ **Outstanding Individual in Social Practice**
-- *2025.04*: 🎖️ **Cyrus Tang Scholarship**
+- *2026.04*: 🎖️ **Cyrus Tang Scholarship** - 2025-2026 Academic Year
+- *2025.12*: 🎖️ **Outstanding Student Leader** - 2024-2025 Academic Year
+- *2025.12*: 🎖️ **Second-Class Scholarship** - 2024-2025 Academic Year
+- *2025.12*: 🎖️ **Outstanding Individual in Social Practice** - 2024-2025 Academic Year
+- *2025.04*: 🎖️ **Cyrus Tang Scholarship** - 2024-2025 Academic Year
 
 <!--<span class="anchor" id="publications"></span>
 
