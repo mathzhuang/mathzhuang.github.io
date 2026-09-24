@@ -13,6 +13,11 @@
   @include clearfix();
   margin-bottom: 1em;
 
+  // Scale every piece of text in the sidebar. All sidebar font sizes use the
+  // em-based $type-size-* variables (relative to this), so bumping this one
+  // value resizes the whole sidebar without touching the rest of the site.
+  font-size: 1.2em;
+
   @media (orientation: portrait) {
     margin-top: 1em;
   }
