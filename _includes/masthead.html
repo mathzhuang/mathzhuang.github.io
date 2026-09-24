@@ -1,14 +1,28 @@
 {% include base_path %}
+{% assign lang = page.lang | default: 'en' %}
+{% if lang == 'zh' %}
+  {% assign nav_links = site.data.navigation.main-zh %}
+  {% assign home_label = '主页' %}
+  {% assign home_url = '/zh/' %}
+  {% assign switch_label = 'EN' %}
+  {% assign switch_url = '/' %}
+{% else %}
+  {% assign nav_links = site.data.navigation.main-en %}
+  {% assign home_label = 'Homepage' %}
+  {% assign home_url = '/' %}
+  {% assign switch_label = 'zh' %}
+  {% assign switch_url = '/zh/' %}
+{% endif %}
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><span class="navicon"></span></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
-            <a href="{{ base_path }}/">Homepage</a>
+          <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' or page.url == '/zh/' %}selected{% endif %}">
+            <a href="{{ base_path }}{{ home_url }}">{{ home_label }}</a>
           </li>
-          {% for link in site.data.navigation.main %}
+          {% for link in nav_links %}
             {% if link.url contains 'http' or link.url contains '#' %}
               {% assign domain = '' %}
             {% else %}
@@ -18,6 +32,9 @@
               <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
+          <li class="masthead__menu-item persist">
+            <a href="{{ base_path }}{{ switch_url }}">{{ switch_label }}</a>
+          </li>
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
           </li>

@@ -12,7 +12,7 @@ redirect_from:
 
 # 👋Hi, welcome to my homepage!
 
-I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student majoring in **Software Engineering** at **Guohao College**, **Tongji University**. My research interests lie in **generative AI**, **diffusion models**, and **computer vision**.
+I'm **Ziyi Zhuang** (CN name: 庄子懿), a third-year undergraduate student majoring in **Software Engineering** at **Guohao College**, **Tongji University**. My research interests lie in **generative AI**, **diffusion models**, and **computer vision**.
 
 <!-- TODO: Add 1–2 paragraphs about the research projects / labs you have worked with,
      following this style:
@@ -75,8 +75,8 @@ I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student
 # 💻 Research Experiences
 
 <!-- TODO: List your research experiences, newest first: -->
-- *2025.03 - 2026.04*, **Development of an Integrated Detection Device for Wild Turtle Dove Nest Departure Dynamics and Incubation Temperature Based on AI**, [Shichao Chen](https://life.tongji.edu.cn/03/54/c12620a131924/page.htm), Tongji University, China.
-- *2026.03 - present*, **Hallucination Detection in Image Super-Resolution Restoration**, [Zhangkai Ni](https://eezkni.github.io/), Tongji University, China.
+- *2025.03 - 2026.04*, **an Detection Device for Wild Turtle Dove Nest Based on AI**, [Shichao Chen](https://life.tongji.edu.cn/03/54/c12620a131924/page.htm), Tongji University, China.
+- *2026.03 - present*, **Hallucination Detection in Image Super-Resolution Model**, [Zhangkai Ni](https://eezkni.github.io/), Tongji University, China.
 - *2026.07 - present*, **Conditional Nonlinear Optimal Perturbation Method Reveals Optimal Precursors of El Niño in a Data-Driven Climate Model**, [Bo Qin](https://cs.tongji.edu.cn/info/1067/3596.htm), Tongji University, China.
 
 

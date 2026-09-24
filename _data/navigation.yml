@@ -4,7 +4,8 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
-main:
+# English navigation (default language)
+main-en:
   - title: "About Me"
     url: "/#about-me"
 
@@ -25,3 +26,26 @@ main:
 
   - title: "Social Practice"
     url: "/#social-practice"
+
+# Chinese navigation
+main-zh:
+  - title: "关于我"
+    url: "/zh/#about-me"
+
+  - title: "新闻"
+    url: "/zh/#news"
+
+  - title: "荣誉与奖项"
+    url: "/zh/#honors-and-awards"
+
+  - title: "科研经历"
+    url: "/zh/#research-experiences"
+
+  - title: "教育经历"
+    url: "/zh/#educations"
+
+  - title: "学生工作"
+    url: "/zh/#student-affairs"
+
+  - title: "社会实践"
+    url: "/zh/#social-practice"
