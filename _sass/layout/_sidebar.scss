@@ -197,6 +197,16 @@
   font-size: $type-size-4;
 }
 
+/* "Tongji University" line (the bio) */
+.sidebar .author__bio {
+  font-size: $type-size-5;
+}
+
+/* the description text under the bio, inside the social links list */
+.sidebar .author__urls li > div {
+  font-size: $type-size-5;
+}
+
 .sidebar .author__desktop {
   display: none;
   @media screen and (min-width: 1024px) {

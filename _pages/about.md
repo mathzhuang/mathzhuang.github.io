@@ -20,7 +20,7 @@ I'm **Ziyi Zhuang**, a third-year undergraduate student majoring in **Software E
 <script defer src="https://events.vercount.one/js"></script>
 
 <div style="text-align: center; margin: 1.5rem 0; font-size: 0.95rem; color: #1e63c4;">
-  ✨ You are the <span id="vercount_value_site_uv">···</span> th visiter!
+  ✨ You are the <span id="vercount_value_site_pv">···</span> th visiter!
 </div>
 
 <span class="anchor" id="news"></span>
@@ -116,4 +116,5 @@ I'm **Ziyi Zhuang**, a third-year undergraduate student majoring in **Software E
 # 🌄 Social Practice
 
 - **Oxford Prospective Programme (OPP)** — 2025 Summer,University of Oxford
+- **PolyU Summer School** -2026 Summer,HongKong
 - **University-Level Key Project** - “Forging a Strong Sense of Community for the Chinese Nation” Special Social Practice 
