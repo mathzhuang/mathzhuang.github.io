@@ -38,3 +38,12 @@
     "layout/json_cv",
     "layout/paperbox"
 ;
+
+/* Root font size — configurable via _config.yml (font_size / font_size_desktop) */
+html {
+  font-size: {{ site.font_size | default: 16 }}px;
+
+  @include breakpoint($medium) {
+    font-size: {{ site.font_size_desktop | default: 18 }}px;
+  }
+}

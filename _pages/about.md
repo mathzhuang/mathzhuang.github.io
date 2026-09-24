@@ -29,7 +29,7 @@ I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student
 
 # 📝 Publications
 
-<!-- TODO: Add one `paper-box` block per publication. Replace the placeholder below. -->
+<!-- # TODO: Add one `paper-box` block per publication. Replace the placeholder below.
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
@@ -46,14 +46,16 @@ I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student
       <li>Highlight 2 — your key contribution.</li>
     </ul>
   </div>
-</div>
+</div>-->
 
-<span class="anchor" id="honors-and-awards"></span>
+<span class="anchor" id="honors-and-awards"></span> 
 
 # 🎖 Honors and Awards
 
 <!-- TODO: List your honors and awards, newest first: -->
 - *2024.12*: 🎖️ **Award name**.
+
+
 
 <span class="anchor" id="educations"></span>
 
