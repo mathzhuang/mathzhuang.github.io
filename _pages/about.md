@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p class="text-center" style="margin: 1em 0;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mathzhuang.mathzhuang.github.io&left_text=visitors&left_color=%231c47f2&right_color=%2322a2ec" alt="visitors" />
+</p>
 
 I'm Ziyi Zhuang (CN name: 庄子懿), a third-year undergraduate student majoring in Software Engineering at the college of Guohao, Tongji University.
 
