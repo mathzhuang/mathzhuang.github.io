@@ -1,127 +1,70 @@
 ---
 permalink: /
-title: "Hello, welcome to my homepage!"
-layout: archive
+title: ""
+layout: single
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-<p class="text-center" style="margin: 1em 0;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mathzhuang.mathzhuang.github.io&left_text=visitors&left_color=%231c47f2&right_color=%2322a2ec" alt="visitors" />
-</p>
 
-I'm Ziyi Zhuang (CN name: 庄子懿), a third-year undergraduate student majoring in Software Engineering at the college of Guohao, Tongji University.
+<span class="anchor" id="about-me"></span>
 
----
+# 👋Hi, welcome to my homepage!
 
-## Publications
+I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student majoring in **Software Engineering** at **Guohao College**, **Tongji University**. My research interests lie in **generative AI**, **diffusion models**, and **computer vision**.
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<!-- TODO: Add 1–2 paragraphs about the research projects / labs you have worked with,
+     following this style:
+     "During my time at Tongji, I have participated in several research projects..." -->
 
-{% include base_path %}
+<span class="anchor" id="news"></span>
 
-{% if site.publication_category %}
-  {% for category in site.publication_category %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}{% continue %}{% endif %}
-      {% unless title_shown %}
-        <h3>{{ category[1].title }}</h3><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+# 🔥 News
 
----
+<!-- TODO: Add your latest news, one line per item, newest first, in this format: -->
+- *2025.06*: 🎉 **News headline** — one-sentence description.
 
-## Talks
+<span class="anchor" id="publications"></span>
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+# 📝 Publications
 
----
+<!-- TODO: Add one `paper-box` block per publication. Replace the placeholder below. -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Venue / Preprint</div>
+      <img src="images/500x300.png" alt="sym" width="100%" />
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><a href="#"><strong>Paper Title</strong></a><br />
+    <strong>Ziyi Zhuang</strong>, Author Two, Author Three*</p>
+    <p><a href="#"><strong>Paper</strong></a></p>
+    <ul>
+      <li>Highlight 1 — what the paper does.</li>
+      <li>Highlight 2 — your key contribution.</li>
+    </ul>
+  </div>
+</div>
 
-## Teaching
+<span class="anchor" id="honors-and-awards"></span>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# 🎖 Honors and Awards
 
----
+<!-- TODO: List your honors and awards, newest first: -->
+- *2024.12*: 🎖️ **Award name**.
 
-## Portfolio
+<span class="anchor" id="educations"></span>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+# 📖 Educations
 
----
+<!-- TODO: Verify your enrollment and expected graduation years. -->
+- *2024.09 - 2028.06 (now)*, **Bachelor's Degree in Software Engineering**, Guohao College, Tongji University, Shanghai, China.
 
-## Blog Posts
+<span class="anchor" id="research-experiences"></span>
 
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h3 id="{{ year | slugify }}">{{ year }}</h3>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+# 💻 Research Experiences
 
----
-
-## CV
-
-Education
-------
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-------
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-Skills
-------
-* Skill 1
-* Skill 2
-* Skill 3
-
-Publications
-------
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
-Talks
-------
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
-
-Teaching
-------
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
----
-
-## Guide
-
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+<!-- TODO: List your research experiences, newest first: -->
+- *2024.09 - Present*, **Research topic**, Advisor name, Tongji University, China.

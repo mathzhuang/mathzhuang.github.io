@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ziyi Zhuang's HomePage"
+title                    : "🏆Ziyi Zhuang's Homepage ✨"
 title_separator          : "-"
 name                     : &name "Ziyi Zhuang"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "An undergraduate student at Tongji University, majoring in Software Engineering. Focusing on generative AI, diffusion models, and computer vision."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://mathzhuang.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,17 +25,16 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ziyi Zhuang"
-  pronouns         : "she/her"  
-  bio              : "An undergraduate student at Tongji University, majoring in Software Engineering in Guohao College. Focusing on gengeative AI,Diffusion Model and CV."
-  location         : "Shanghai,China"
-  employer         : "Tongji University"
+  bio              : "Tongji University"
+  description      : "An undergraduate student at Tongji University, majoring in Software Engineering at Guohao College. Focusing on generative AI, diffusion models, and computer vision."
+  location         : "Shanghai, China"
   uri              : # URL
   email            : "2451487@tongji.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # 我得整个Google scholar账号
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # url
@@ -51,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "/mathzhuang/"
+  github           : "mathzhuang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

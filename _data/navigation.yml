@@ -3,28 +3,22 @@
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#news"
+
   - title: "Publications"
-    url: "#publications"
+    url: "/#publications"
 
-  - title: "Talks"
-    url: "#talks"
+  - title: "Honors and Awards"
+    url: "/#honors-and-awards"
 
-  - title: "Teaching"
-    url: "#teaching"
+  - title: "Educations"
+    url: "/#educations"
 
-  - title: "Portfolio"
-    url: "#portfolio"
-
-  - title: "Blog Posts"
-    url: "#blog-posts"
-
-  - title: "CV"
-    url: "#cv"
-
-  - title: "Guide"
-    url: "#guide"
+  - title: "Research Experiences"
+    url: "/#research-experiences"
