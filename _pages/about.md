@@ -23,13 +23,14 @@ I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student
 # 🔥 News
 
 <!-- TODO: Add your latest news, one line per item, newest first, in this format: -->
-- *2026.09*: 🎉 **National Awards** — I've got National Awards in 2025-2026 semester!
+- *2026.09*: 🎉 **National Scholarship** — 2025-2026 Academic Year
+- 
 
-<span class="anchor" id="publications"></span>
+<!--<span class="anchor" id="publications"></span>
 
 # 📝 Publications
 
-<!-- # TODO: Add one `paper-box` block per publication. Replace the placeholder below.
+# TODO: Add one `paper-box` block per publication. Replace the placeholder below.
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
@@ -53,7 +54,21 @@ I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student
 # 🎖 Honors and Awards
 
 <!-- TODO: List your honors and awards, newest first: -->
-- *2026.09*: 🎖️ **National Award**.
+- *2026.12*: 🎖️ **National Scholarship**
+- *2026.04*: 🎖️ **Cyrus Tang Scholarship**
+- *2025.12*: 🎖️ **Second-Class Scholarship for Undergraduate Outstanding Students of Tongji University**
+- *2025.12*: 🎖️ **Outstanding Student Leader**
+- *2025.12*: 🎖️ **Outstanding Individual in Social Practice**
+
+<span class="anchor" id="research-experiences"></span>
+
+# 💻 Research Experiences
+
+<!-- TODO: List your research experiences, newest first: -->
+- *2025.03 - 2026.04*, **Development of an Integrated Detection Device for Wild Turtle Dove Nest Departure Dynamics and Incubation Temperature Based on AI**, (Shichao Chen)[https://life.tongji.edu.cn/03/54/c12620a131924/page.htm], Tongji University, China.
+- *2026.03 - present*,**Hallucination Detection in Image Super-Resolution Restoration**, (Zhangkai Ni)[https://eezkni.github.io/], Tongji University, China.
+- *2026.07 - present*,**Conditional Nonlinear Optimal Perturbation Method Reveals Optimal Precursors of El Niño in a Data-Driven Climate Model**, (Bo Qin)[https://cs.tongji.edu.cn/info/1067/3596.htm], Tongji University, China.
+
 
 
 
@@ -64,9 +79,6 @@ I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student
 <!-- TODO: Verify your enrollment and expected graduation years. -->
 - *2024.09 - 2028.06 (now)*, **Bachelor's Degree in Software Engineering**, Guohao College, Tongji University, Shanghai, China.
 
-<span class="anchor" id="research-experiences"></span>
+<span class="anchor" id="Student Works"></span> 
 
-# 💻 Research Experiences
-
-<!-- TODO: List your research experiences, newest first: -->
-- *2024.09 - Present*, **Research topic**, Advisor name, Tongji University, China.
+# 🎖 Student Works
