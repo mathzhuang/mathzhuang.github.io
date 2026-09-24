@@ -292,8 +292,8 @@ defaults:
 
 
 # Typography
-font_size             : 16    # base font size in px (small screens)
-font_size_desktop     : 18    # base font size in px (>= 768px screens)
+font_size             : 14    # base font size in px (small screens)
+font_size_desktop     : 16    # base font size in px (>= 768px screens)
 
 # Sass/SCSS
 sass:

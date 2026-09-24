@@ -23,7 +23,7 @@ I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student
 # 🔥 News
 
 <!-- TODO: Add your latest news, one line per item, newest first, in this format: -->
-- *2025.06*: 🎉 **News headline** — one-sentence description.
+- *2026.09*: 🎉 **National Awards** — I've got National Awards in 2025-2026 semester!
 
 <span class="anchor" id="publications"></span>
 
@@ -53,7 +53,7 @@ I'm **Ziyi Zhuang** (CN name: **庄子懿**), a third-year undergraduate student
 # 🎖 Honors and Awards
 
 <!-- TODO: List your honors and awards, newest first: -->
-- *2024.12*: 🎖️ **Award name**.
+- *2026.09*: 🎖️ **National Award**.
 
 
 
