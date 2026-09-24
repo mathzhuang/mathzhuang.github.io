@@ -12,8 +12,9 @@ redirect_from:
 
 # 👋Hi, welcome to my homepage!
 
-I'm **Ziyi Zhuang** (CN name: 庄子懿), a third-year undergraduate student majoring in **Software Engineering** at **Guohao College**, **Tongji University**. My research interests lie in **generative AI**, **diffusion models**, and **computer vision**.
+I'm **Ziyi Zhuang**, a third-year undergraduate student majoring in **Software Engineering** at **Guohao College**, **Tongji University**. My research interests lie in **generative AI**, **diffusion models**, and **computer vision**.
 
+During my time at Tongji, I have participated in several research projects. I fortunately worked on a project led by Associate [Professor NI](https://eezkni.github.io/) at Tongji University, focused on the Hallucination Detection in Diffusion based Image Super-Resolution Model. 
 <!-- TODO: Add 1–2 paragraphs about the research projects / labs you have worked with,
      following this style:
      "During my time at Tongji, I have participated in several research projects..." -->

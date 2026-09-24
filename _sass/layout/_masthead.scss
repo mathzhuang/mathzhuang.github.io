@@ -79,3 +79,25 @@
   border-bottom: 2px solid var(--global-text-color);
   /* No need to repeat pointer-events and cursor here */
 }
+
+/* Language switch button */
+.masthead__menu-item--lang {
+  a {
+    display: inline-block;
+    margin: 0 1rem;
+    padding: 0.3em 0.9em;
+    font-weight: 700;
+    line-height: 1.2;
+    text-align: center;
+    color: var(--global-masthead-link-color);
+    border: 1px solid var(--global-border-color);
+    border-radius: 999px;
+    -webkit-transition: $global-transition;
+    transition: $global-transition;
+
+    &:hover {
+      color: var(--global-masthead-link-color-hover);
+      border-color: var(--global-masthead-link-color-hover);
+    }
+  }
+}
