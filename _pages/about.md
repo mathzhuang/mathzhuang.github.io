@@ -20,9 +20,9 @@ I'm **Ziyi Zhuang**, a third-year undergraduate student majoring in **Software E
 <script defer src="https://events.vercount.one/js"></script>
 
 <div style="text-align: center; margin: 1.5rem 0; font-size: 0.95rem; color: #1e63c4;">
-  ✨ This is the <span id="vercount_value_site_pv">···</span> -th visit to my website
+  ✨ This is the <span id="vercount_value_site_pv">···</span> th visit to my website
   <br>
-  👣 You are the <span id="vercount_value_site_uv">···</span> -th to visit my website!
+  👣 You are the <span id="vercount_value_site_uv">···</span> th person to visit my website!
 </div>
 
 <span class="anchor" id="news"></span>
@@ -32,6 +32,11 @@ I'm **Ziyi Zhuang**, a third-year undergraduate student majoring in **Software E
 <!-- TODO: Add your latest news, one line per item, newest first, in this format: -->
 - *2026.09*: 🎉 **National Scholarship** — 2025-2026 Academic Year
 - *2026.06*: 🎖️**National First Prize** -9th National Undergraduate Innovation Experience Competition
+- *2026.04*: 🎖️ **Cyrus Tang Scholarship**
+- *2025.12*: 🎖️ **Outstanding Student Leader**
+- *2025.12*: 🎖️ **Second-Class Scholarship**
+- *2025.12*: 🎖️ **Outstanding Individual in Social Practice**
+- *2025.04*: 🎖️ **Cyrus Tang Scholarship**
 
 <!--<span class="anchor" id="publications"></span>
 
@@ -63,8 +68,9 @@ I'm **Ziyi Zhuang**, a third-year undergraduate student majoring in **Software E
 <!-- TODO: List your honors and awards, newest first: -->
 - *2026.12*: 🎖️ **National Scholarship**
 - *2026.04*: 🎖️ **Cyrus Tang Scholarship**
+- *2025.04*: 🎖️ **Cyrus Tang Scholarship**
 - *2025.12*: 🎖️ **Outstanding Student Leader**
-- *2025.12*: 🎖️ **Second-Class Scholarship of Tongji University**
+- *2025.12*: 🎖️ **Second-Class Scholarship**
 - *2025.12*: 🎖️ **Outstanding Individual in Social Practice**
 - *2026.06*: 🎖️**National First Prize** -9th National Undergraduate Innovation Experience Competition
 - *2026.05*: 🥈 **Honorable Mention(H Award)** -2026 Mathematical Contest in Modeling (MCM)
