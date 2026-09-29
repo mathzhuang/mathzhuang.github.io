@@ -35,9 +35,12 @@
           <li id="theme-toggle" class="masthead__menu-item persist">
             <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
           </li>
+          {% comment %}
+          Temporarily hide the language switch while the Chinese page is unavailable.
           <li class="masthead__menu-item masthead__menu-item--lang persist tail">
             <a href="{{ base_path }}{{ switch_url }}">{{ switch_label }}</a>
           </li>
+          {% endcomment %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

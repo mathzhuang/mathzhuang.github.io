@@ -1,5 +1,7 @@
 ---
 permalink: /zh/
+redirect_to: /
+sitemap: false
 title: "庄子懿 | Ziyi Zhuang"
 description: "庄子懿（Ziyi Zhuang）是同济大学软件工程专业本科生，研究兴趣包括生成式人工智能、扩散模型和计算机视觉。"
 layout: single
