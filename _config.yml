@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zhuang's Homepage✨"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"Zhuang's Homepage✨
+title                    : "Ziyi Zhuang | 庄子懿"
 title_separator          : "-"
 name                     : &name "Ziyi Zhuang"
-description              : &description "An undergraduate student at Tongji University, majoring in Software Engineering. Focusing on generative AI, diffusion models, and computer vision."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Ziyi Zhuang (庄子懿) is an undergraduate student at Tongji University studying Software Engineering, with interests in generative AI, diffusion models, and computer vision."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://mathzhuang.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -147,9 +147,10 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : "Person"
+  name                   : "Ziyi Zhuang"
   links: # An array of links to social media profiles
+    - "https://github.com/mathzhuang"
 
 
 # Analytics
