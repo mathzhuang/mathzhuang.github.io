@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ziyi Zhuang | 庄子懿"
+title: "Ziyi Zhuang"
 description: "Ziyi Zhuang (庄子懿), an undergraduate Software Engineering student at Tongji University researching generative AI, diffusion models, and computer vision."
 layout: single
 author_profile: true
